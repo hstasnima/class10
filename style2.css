@@ -1,0 +1,23 @@
+.div1 h1{
+    color: sienna;
+    
+}
+.div2 h1{
+    color: blueviolet;
+   
+}
+.div2{
+     height: 300px;
+    width: 500px;
+    background-color: bisque
+}
+.div1{
+     height: 300px;
+    width: 500px;
+    background-color: beige
+   
+   
+}
+body{
+    background-color: lemonchiffon;
+}
